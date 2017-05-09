@@ -1,0 +1,19 @@
+Git Instructions:
+
+
+Track downstream branch:
+
+git pull https://github.com/kunstmusik/blue.git develop
+
+Create branch:
+
+git checkout -b upstream
+
+Set upstream branch:
+
+git branch --set-upstream-to upstream
+
+
+
+
+
